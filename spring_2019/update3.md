@@ -1,12 +1,12 @@
 ## Last Week's Accomplishments
 
 Looked into using restful api to send updates from raspberry pi
-Tested sending 
+Tested sending get requests from raspberry pi
 
 ## This Week's Plan
 
-Get raspberry pi to send data to the server through HTTP
-Maybe set up an actual server(instead of on localhost) and test receiving data
+Write more functions to be able to save more data about the occupancy(eg.when was it updated)
+Look through the current postgresql database tables and work on finalizing the structure
 
 ## Anything Blocking?
 

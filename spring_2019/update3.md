@@ -1,13 +1,13 @@
 ## Last Week's Accomplishments
 
-Looked into using restful api to send updates from raspberry pi.
-Tested sending get requests from raspberry pi.
+- Looked into using restful api to send updates from raspberry pi.
+- Tested sending get requests from raspberry pi.
 
 ## This Week's Plan
 
-Write more functions to be able to save more data about the occupancy(eg.when was it updated).
-Look through the current postgresql database tables and work on finalizing the structure.
-Look into methods for secure communication between server and raspberry pi
+- Write more functions to be able to save more data about the occupancy(eg.when was it updated).
+- Look through the current postgresql database tables and work on finalizing the structure.
+- Look into methods for secure communication between server and raspberry pi
 
 ## Anything Blocking?
 

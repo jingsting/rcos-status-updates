@@ -2,6 +2,7 @@
 
 - Looked into using restful api to send updates from raspberry pi.
 - Tested sending get requests from raspberry pi.
+- Discussed with the software group on our five-step plan to the minimum viable product
 
 ## This Week's Plan
 

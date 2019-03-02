@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
 - Wrote some test code for raspberry pi to send update to the server
-  (https://github.com/FolsomLibraryOccupanyMonitor/FLOM/blob/master/_hardware/sensor.py)
+  (https://github.com/FolsomLibraryOccupanyMonitor/FLOM/blob/master/_hardware/send.py)
 - Reorganized the files in the repository and merged updates from master to dev_recv branch
 - Did some more planning on our minimum viable product with the software group
 
